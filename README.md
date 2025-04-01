@@ -1,8 +1,6 @@
-# Freelancer
-[Demo](https://freelancer.pythonanywhere.com/)
 
 # Installation
-* 1 - clone repo https://github.com/mohsensami/freelancer
+* 1 - download the zip file
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
